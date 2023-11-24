@@ -1,0 +1,15 @@
+.perso {
+    width: 18rem;
+}
+
+.perso2 {
+    width: 10rem;
+}
+
+#contenedor-productos {
+    display: flex;
+}
+
+.card {
+    margin: 1em;
+}
